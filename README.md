@@ -1,1 +1,4 @@
 # viajeIdayVuelta
+Imagina que estás diseñando un sistema para crear billetes de embarque para un viaje de ida y vuelta. Debes construir dos objetos que representen los billetes de embarque de un pasajero: uno para el billete de ida y otro para el billete de vuelta.
+
+Cada objeto debe tener las siguientes propiedades y métodos: Propiedades: .nombre: El nombre del pasajero. .desde: El lugar de donde el pasajero está volando. .hacia: El destino al que el pasajero está volando. .claseEjecutiva: Un valor booleano que indica si el pasajero viaja en clase ejecutiva (true) o no (false). Método: .upgrade(): Este método debe permitir al pasajero actualizar su billete a clase ejecutiva si aún no está en clase ejecutiva. Si el billete ya está en clase ejecutiva, debe mostrar el siguiente mensaje: "¡Tu billete ya es de clase ejecutiva!".
